@@ -50,4 +50,4 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ksbtg66sz1srdft51byraeke1&count={count})
+
