@@ -32,7 +32,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vitorhugorodriguesgarcia/vitorhugorodriguesgarcia/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
