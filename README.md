@@ -12,7 +12,7 @@
 
 - 🎓 Acadêmico do **4º período de Engenharia de Software** na **Unicesumar (Maringá - PR)**.
 - 🚀 Em constante aprendizado desde o início de 2025, focado em desenvolvimento de software e boas práticas de código.
-- 📍 Baseado em **Mandaguari - PR**.
+
 
 ---
 
